@@ -14,7 +14,7 @@ function numberLength(parsed) {
     }
     return result;
   }
-}
+
 
 function valid(parsed) {
   let result;
