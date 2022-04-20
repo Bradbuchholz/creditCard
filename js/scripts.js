@@ -11,6 +11,8 @@ function numberLength(parsed) {
     result = true;
   } else {
     result = false;
+    }
+    return result;
   }
 }
 
@@ -24,9 +26,10 @@ function valid(parsed) {
   } else {
     result = false;
     }
+    return result;
   }
 
 
-
+//how all of these sep functions will work. combine at 
   
   
